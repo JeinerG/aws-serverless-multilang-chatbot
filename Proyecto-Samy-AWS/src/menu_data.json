@@ -1,0 +1,122 @@
+[
+  {
+    "ItemName": "Salchipapa",
+    "Precio": "15000",
+    "Categoria": "Comida Rápida",
+    "Variedades": "Sencilla, Ranchera (con tocineta), Salvaje (todo incluido).",
+    "Descripcion": "Papas francesas crocantes, salchicha americana y queso costeño rallado.",
+    "Sugerencia": "¿Le adicionamos extra de queso fundido por $3.000?"
+  },
+  {
+    "ItemName": "Salchipapa Costeña",
+    "Precio": "17000",
+    "Categoria": "Comida Rápida",
+    "Variedades": "Normal, XL.",
+    "Descripcion": "Con queso costeño, butifarra y bollo limpio.",
+    "Sugerencia": "Sabor caribeño 100%."
+  },
+  {
+    "ItemName": "Alitas BBQ",
+    "Precio": "18000",
+    "Categoria": "Entradas",
+    "Variedades": "Picantes, BBQ, Agridulces.",
+    "Descripcion": "6 Alitas bañadas en salsa BBQ o Miel Mostaza.",
+    "Sugerencia": "Pídelas con una cerveza bien fría."
+  },
+  {
+    "ItemName": "Aros de Cebolla",
+    "Precio": "7000",
+    "Categoria": "Adicionales",
+    "Variedades": "Única.",
+    "Descripcion": "Aros empanizados y fritos a la perfección.",
+    "Sugerencia": "Perfectos para picar antes del fuerte."
+  },
+  {
+    "ItemName": "Bebida",
+    "Precio": "5000",
+    "Categoria": "Bebidas",
+    "Variedades": "Coca-Cola, Pepsi, Manzana, Jugos Naturales (Mora, Lulo).",
+    "Descripcion": "Refrescantes y frías para el calor.",
+    "Sugerencia": "¿Prefieres tu bebida con o sin hielo?"
+  },
+  {
+    "ItemName": "Papas Fritas",
+    "Precio": "6000",
+    "Categoria": "Adicionales",
+    "Variedades": "Francesa, Cascos, Criolla.",
+    "Descripcion": "Porción de papas a la francesa.",
+    "Sugerencia": "Pídelas con salsa de queso cheddar."
+  },
+  {
+    "ItemName": "Perro",
+    "Precio": "12000",
+    "Categoria": "Comida Rápida",
+    "Variedades": "Sencillo, Suizo, Mexicano, Transmilenio.",
+    "Descripcion": "Salchicha premium, pan al vapor, ripio de papa y salsas de la casa.",
+    "Sugerencia": "Mejora tu perro con una porción de tocineta crujiente."
+  },
+  {
+    "ItemName": "Postre",
+    "Precio": "8000",
+    "Categoria": "Dulces",
+    "Variedades": "Brownie con helado, Cheesecake, Tres Leches.",
+    "Descripcion": "El toque dulce para terminar.",
+    "Sugerencia": "Ideal para compartir (o no)."
+  },
+  {
+    "ItemName": "Perro Suizo",
+    "Precio": "14000",
+    "Categoria": "Comida Rápida",
+    "Variedades": "Sencillo.",
+    "Descripcion": "Con abundante queso mozzarella gratinado encima.",
+    "Sugerencia": "Cuidado, ¡está caliente!"
+  },
+  {
+    "ItemName": "Pizza Hawaiana",
+    "Precio": "26000",
+    "Categoria": "Italiana",
+    "Variedades": "Personal, Mediana, Familiar.",
+    "Descripcion": "La clásica polémica: Piña calada y jamón seleccionado.",
+    "Sugerencia": "¿Le agregamos borde de queso?"
+  },
+  {
+    "ItemName": "Hamburguesa",
+    "Precio": "18000",
+    "Categoria": "Comida Rápida",
+    "Variedades": "Clásica, Mexicana, Doble Carne, Queso Azul.",
+    "Descripcion": "Carne 100% Angus 150g, vegetales frescos, pan brioche y salsas artesanales.",
+    "Sugerencia": "¿Te gustaría agregar papas rústicas y bebida por $5.000?"
+  },
+  {
+    "ItemName": "Pizza",
+    "Precio": "25000",
+    "Categoria": "Italiana",
+    "Variedades": "Pepperoni, Hawaiana, Pollo-Champiñones, Vegetariana.",
+    "Descripcion": "Masa madre madurada 48 horas, salsa napolitana y mozzarella premium.",
+    "Sugerencia": "Esta pizza va genial con unos palitos de ajo de entrada."
+  },
+  {
+    "ItemName": "Churrasco",
+    "Precio": "35000",
+    "Categoria": "Platos Fuertes",
+    "Variedades": "Término medio, 3/4, Bien asado.",
+    "Descripcion": "300g de corte mariposa al carbón con papa y ensalada.",
+    "Sugerencia": "Un plato fuerte merece un buen vino."
+  },
+  {
+    "ItemName": "Limonada de Coco",
+    "Precio": "9000",
+    "Categoria": "Bebidas",
+    "Variedades": "Natural, Hierbabuena.",
+    "Descripcion": "Granizada cremosa con leche de coco natural.",
+    "Sugerencia": "La bebida más vendida de la casa."
+  },
+  {
+    "ItemName": "Hamburguesa Doble",
+    "Precio": "24000",
+    "Categoria": "Comida Rápida",
+    "Variedades": "Término medio, 3/4, Bien asada.",
+    "Descripcion": "Dos carnes de 150g, doble queso y tocineta.",
+    "Sugerencia": "Esto es para campeones. Pídela con una gaseosa grande."
+  }
+]
