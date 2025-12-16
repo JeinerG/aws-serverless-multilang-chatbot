@@ -1,1 +1,4 @@
 https://d8ybc6qr89egf.cloudfront.net/index.html
+Frontend desplegado usando AWS CloudFormation Stack.
+Plantilla base: aws-lex-web-ui (v0.23.0)
+Fuente: https://github.com/aws-samples/aws-lex-web-ui
